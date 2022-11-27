@@ -14,7 +14,7 @@ void printArray(int arr[], int n) {
         cout << arr[i] << " ";
     }
 
-    cout << "\n";
+    cout << endl;
 
 }
 
